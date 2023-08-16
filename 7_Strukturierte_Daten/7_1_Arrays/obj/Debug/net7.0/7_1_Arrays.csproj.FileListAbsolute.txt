@@ -1,0 +1,15 @@
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_1_Arrays\bin\Debug\net7.0\7_1_Arrays.exe
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_1_Arrays\bin\Debug\net7.0\7_1_Arrays.deps.json
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_1_Arrays\bin\Debug\net7.0\7_1_Arrays.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_1_Arrays\bin\Debug\net7.0\7_1_Arrays.dll
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_1_Arrays\bin\Debug\net7.0\7_1_Arrays.pdb
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_1_Arrays\obj\Debug\net7.0\7_1_Arrays.csproj.AssemblyReference.cache
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_1_Arrays\obj\Debug\net7.0\7_1_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_1_Arrays\obj\Debug\net7.0\7_1_Arrays.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_1_Arrays\obj\Debug\net7.0\7_1_Arrays.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_1_Arrays\obj\Debug\net7.0\7_1_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_1_Arrays\obj\Debug\net7.0\7_1_Arrays.dll
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_1_Arrays\obj\Debug\net7.0\refint\7_1_Arrays.dll
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_1_Arrays\obj\Debug\net7.0\7_1_Arrays.pdb
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_1_Arrays\obj\Debug\net7.0\7_1_Arrays.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_1_Arrays\obj\Debug\net7.0\ref\7_1_Arrays.dll
