@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "7_6_Uebungsaufgaben_Arbeiten_mit_Arrays_Listen_Dictionaries_und_Tuples/1.0.0": {
+        "runtime": {
+          "7_6_Uebungsaufgaben_Arbeiten_mit_Arrays_Listen_Dictionaries_und_Tuples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7_6_Uebungsaufgaben_Arbeiten_mit_Arrays_Listen_Dictionaries_und_Tuples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

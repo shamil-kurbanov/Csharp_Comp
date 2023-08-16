@@ -1,0 +1,15 @@
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_6_Uebungsaufgaben\bin\Debug\net7.0\7_6_Uebungsaufgaben.exe
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_6_Uebungsaufgaben\bin\Debug\net7.0\7_6_Uebungsaufgaben.deps.json
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_6_Uebungsaufgaben\bin\Debug\net7.0\7_6_Uebungsaufgaben.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_6_Uebungsaufgaben\bin\Debug\net7.0\7_6_Uebungsaufgaben.dll
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_6_Uebungsaufgaben\bin\Debug\net7.0\7_6_Uebungsaufgaben.pdb
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_6_Uebungsaufgaben\obj\Debug\net7.0\7_6_Uebungsaufgaben.csproj.AssemblyReference.cache
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_6_Uebungsaufgaben\obj\Debug\net7.0\7_6_Uebungsaufgaben.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_6_Uebungsaufgaben\obj\Debug\net7.0\7_6_Uebungsaufgaben.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_6_Uebungsaufgaben\obj\Debug\net7.0\7_6_Uebungsaufgaben.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_6_Uebungsaufgaben\obj\Debug\net7.0\7_6_Uebungsaufgaben.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_6_Uebungsaufgaben\obj\Debug\net7.0\7_6_Uebungsaufgaben.dll
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_6_Uebungsaufgaben\obj\Debug\net7.0\refint\7_6_Uebungsaufgaben.dll
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_6_Uebungsaufgaben\obj\Debug\net7.0\7_6_Uebungsaufgaben.pdb
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_6_Uebungsaufgaben\obj\Debug\net7.0\7_6_Uebungsaufgaben.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\gb\Csharp_Comp\7_Strukturierte_Daten\7_6_Uebungsaufgaben\obj\Debug\net7.0\ref\7_6_Uebungsaufgaben.dll
