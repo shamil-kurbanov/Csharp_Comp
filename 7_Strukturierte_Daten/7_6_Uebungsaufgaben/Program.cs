@@ -1,15 +1,12 @@
 ﻿// 7.6 Übungsaufgaben:
 // Arbeiten mit Arrays, Listen, Dictionaries und Tuples
 
-//schreibe bitte das Programm:
 
 //Deklarieren Sie eine zusammengesetzte Struktur zur Speicherung von
 //Festnetznummer. Mobilnummer und E-Mail-Adresse für mehrere Personen.
 //Für eine Person speichern Sie dabei nur den Vornamen.
 //Befüllen Sie diese Struktur beim Start des Programms mit ein paar Beispieldaten
 
-
-//fange an!
 using System;
 using System.Collections.Generic;
 
