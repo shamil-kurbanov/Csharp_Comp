@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "7_5_Das_Tuple_Mehrere_verschiedene_Variablen_in_einer_Struktur/1.0.0": {
+        "runtime": {
+          "7_5_Das_Tuple_Mehrere_verschiedene_Variablen_in_einer_Struktur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7_5_Das_Tuple_Mehrere_verschiedene_Variablen_in_einer_Struktur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
